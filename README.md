@@ -1,5 +1,7 @@
-# Getting Started with Create React App
+# react-sandbox
+### Custom & Advanced Hooks examples from course: React Front to Back 2022 - by Brad Traversy
 
+Getting Started with Create React App </br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
